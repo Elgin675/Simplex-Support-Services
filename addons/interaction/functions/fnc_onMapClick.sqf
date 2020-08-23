@@ -188,14 +188,14 @@ switch (_entity getVariable "SSS_supportType") do {
 				};
 			}],
 			["COMBOBOX",localize LSTRING(SmokeColor),[[
-				localize LSTRING(White),
-				localize LSTRING(Black),
-				[localize LSTRING(Red),"","",[0.9,0,0,1]],
-				[localize LSTRING(Orange),"","",[0.85,0.4,0,1]],
-				[localize LSTRING(Yellow),"","",[0.85,0.85,0,1]],
-				[localize LSTRING(Green),"","",[0,0.8,0,1]],
-				[localize LSTRING(Blue),"","",[0,0,1,1]],
-				[localize LSTRING(Purple),"","",[0.75,0.15,0.75,1]]
+				localize LSTRING(SmokeColorWhite),
+				localize LSTRING(SmokeColorBlack),
+				[localize LSTRING(SmokeColorRed),"","",[0.9,0,0,1]],
+				[localize LSTRING(SmokeColorOrange),"","",[0.85,0.4,0,1]],
+				[localize LSTRING(SmokeColorYellow),"","",[0.85,0.85,0,1]],
+				[localize LSTRING(SmokeColorGreen),"","",[0,0.8,0,1]],
+				[localize LSTRING(SmokeColorBlue),"","",[0,0,1,1]],
+				[localize LSTRING(SmokeColorPurple),"","",[0.75,0.15,0.75,1]]
 			],0],false,{},{false}]
 		],{
 			params ["_values","_args"];

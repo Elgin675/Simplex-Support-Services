@@ -180,9 +180,11 @@
 		</Key>
 		<Key ID="STR_SSS_Interaction_Clockwise">
 			<English>Clockwise</English>
+			<French>Sens horaire</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_ConterClockwise">
 			<English>Counter-Clockwise</English>
+			<French>Sens anti-horaire</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_AltitudeAbovePosition">
 			<English>Altitude above position</English>
@@ -195,27 +197,35 @@
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingN">
 			<English>N</English>
+			<French>N</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingNE">
 			<English>NE</English>
+			<French>NE</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingE">
 			<English>E</English>
+			<French>E</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingSE">
 			<English>SE</English>
+			<French>SE</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingS">
 			<English>S</English>
+			<French>S</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingSW">
 			<English>SW</English>
+			<French>SO</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingW">
 			<English>W</English>
+			<French>O</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_BearingNW">
 			<English>NW</English>
+			<French>NO</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_TerrainObstructingApproach">
 			<English>Terrain obstructing approach</English>
@@ -244,29 +254,37 @@
 		<Key ID="STR_SSS_Interaction_IRSignal">
 			<English>IR Signal</English>
 		</Key>
-		<Key ID="STR_SSS_Interaction_White">
+		<Key ID="STR_SSS_Interaction_SmokeColorWhite">
 			<English>White</English>
+			<French>Blanche</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Black">
+		<Key ID="STR_SSS_Interaction_SmokeColorBlack">
 			<English>Black</English>
+			<French>Noire</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Red">
+		<Key ID="STR_SSS_Interaction_SmokeColorRed">
 			<English>Red</English>
+			<French>Rouge</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Orange">
+		<Key ID="STR_SSS_Interaction_SmokeColorOrange">
 			<English>Orange</English>
+			<French>Orange</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Yellow">
+		<Key ID="STR_SSS_Interaction_SmokeColorYellow">
 			<English>Yellow</English>
+			<French>Jaune</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Green">
+		<Key ID="STR_SSS_Interaction_SmokeColorGreen">
 			<English>Green</English>
+			<French>Verte</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Blue">
+		<Key ID="STR_SSS_Interaction_SmokeColorBlue">
 			<English>Blue</English>
+			<French>Bleue</French>
 		</Key>
-		<Key ID="STR_SSS_Interaction_Purple">
+		<Key ID="STR_SSS_Interaction_SmokeColorPurple">
 			<English>Purple</English>
+			<French>Violette</French>
 		</Key>
 		<Key ID="STR_SSS_Interaction_HoverParameters">
 			<English>Hover parameters</English>
